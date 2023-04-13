@@ -1,7 +1,0 @@
-# compiler file
-cache
-out
-build
-
-# dependencies
-node_modules
