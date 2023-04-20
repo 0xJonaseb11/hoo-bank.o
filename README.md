@@ -32,7 +32,7 @@ Hoobank is a cutting-edge website that leverages the latest payment methods to p
 
 ## Contributing
 
-We welcome contributions from the community. If you wish to contribute, please visit us on the github account https://github.com/Jaz-3-0/hoo-bank.o
+We welcome contributions from the community. If you wish to contribute, please visit us on the github account https://github.com/Jaz-3-0/hoo-bank.o.git
 
 ## Contact
 
