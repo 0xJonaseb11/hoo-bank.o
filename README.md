@@ -1,5 +1,7 @@
 Author: @Jaz-3-0
 
+![Hoo Homepage preview](./Hoo.bank.png)
+
 # hoo-bank.o
 
 Hoobank is a cutting-edge website that leverages the latest payment methods to provide a seamless and secure financial experience.
